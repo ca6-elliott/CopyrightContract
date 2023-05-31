@@ -1,6 +1,3 @@
-# CopyrightContract
-
-
 # Copyright Contract
 This contract, written in Solidity, allows users to manage permissions and ownership for works protected by copyright.
 
